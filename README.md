@@ -1,3 +1,1 @@
-# t3.github.io
-
-test
+# Github Pages
