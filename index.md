@@ -1,4 +1,4 @@
-# Change Me
+# OSMICS
 
 ## Table of Contents
 * [Overview](#overview)
@@ -19,7 +19,7 @@ In progress
 In progress
 
 ## What Our Application Provides
-In progress
+This application will provide the ICS Department's administrative office and tech support with an inventory and office space management system.
 
 ## Mockup Pages
 
@@ -48,7 +48,7 @@ In progress
   <img width="90%" class="rounded" src="./assets/images/faculty-page.png">
 </div>
 
-### Add Proffesor
+### Add Professor
 <div class="col d-flex justify-content-center">
   <img width="90%" class="rounded" src="./assets/images/add-prof.png">
 </div>
