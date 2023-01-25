@@ -35,9 +35,15 @@ Where the user can sign-in.
   <img width="90%" class="rounded" src="./assets/images/m1/login-page.png">
 </div>
 
+### Sign-Up
+Where the admin can sign up new users. (Only Admins are allowed to register users.)
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/m1/sign-up.JPG">
+</div>
+
 ### Default Pages for Each Role
 Content may differ depending on role upon logging in.
-<div class="col d-flex justify-content-center">
+<div class="col d-flex justify-con  tent-center">
   <img width="90%" class="rounded" src="./assets/images/default-page.png">
 </div>
 
