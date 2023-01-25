@@ -41,6 +41,12 @@ Where the admin can sign up new users. (Only Admins are allowed to register user
   <img width="90%" class="rounded" src="./assets/images/m1/sign-up.JPG">
 </div>
 
+### Profile Page
+This is where users are able to view their profile / account information.
+<div class="col d-flex justify-content-center">
+  <img width="90%" class="rounded" src="./assets/images/m1/profile-page.JPG">
+</div>
+
 ### Default Pages for Each Role
 Content may differ depending on role upon logging in.
 <div class="col d-flex justify-con  tent-center">
