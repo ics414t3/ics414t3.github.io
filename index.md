@@ -1,4 +1,6 @@
 # OSMICS
+[![ci-osmics](https://github.com/ics414t3/ics-osm/actions/workflows/ci.yml/badge.svg)](https://github.com/ics414t3/ics-osm/actions/workflows/ci.yml/)
+
 
 ## Table of Contents
 * [Overview](#overview)
