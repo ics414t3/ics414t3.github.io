@@ -27,65 +27,38 @@ This application will mainly provide the ICS Department's administrative office 
 
 ### Landing Page
 What the user sees when they first go to the site.
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/landing-page.png">
-</div>
+![landing](/assets/images/m2/landing.png)
 
 ### Sign-In
 Where the user can sign-in.
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/login-page.png">
-</div>
-
-### Sign-Up
-Where the admin can sign up new users. (Only Admins are allowed to register users.)
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/sign-up.JPG">
-</div>
+![sign-in.png](/assets/images/sign-in.png)
 
 ### Profile Page
 This is where users are able to view their profile / account information.
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/profile-page.JPG">
-</div>
-
-### Default Pages for Each Role
-Content may differ depending on role upon logging in.
-<div class="col d-flex justify-con  tent-center">
-  <img width="90%" class="rounded" src="./assets/images/default-page.png">
-</div>
+![profile](/assets/images/m1/profile-page.JPG)
 
 ### Admin Page
 Admin can see all of the users and modify their information.
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/admin-admin.png">
-</div>
+![admin](/assets/images/m2/admin.png)
 
 ### Admin List Room
 Admin can see all of the rooms and modify their information.
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/m1/admin-list-room.png">
-</div>
+![admin](/assets/images/m2/room-admin.png)
 
-### Calendar
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/calendar.png">
-</div>
+### Reserve
+Where admin, faculty, tech, or office can reserve rooms.
+![calendar](/assets/images/m2/calendar.png)
 
 ### Faculty Page
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/faculty-page.png">
-</div>
+Where the list of faculty can be seen by all users. However, only admin and office can add new faculty.
+![faculty](/assets/images/m2/faculty.png)
 
-### Add Professor
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/add-prof.png">
-</div>
+### Add Faculty
+Modal that allows admin or office to add faculty.
+![add-faculty](/assets/images/m2/add-faculty.png)
 
 ### Room Page
-<div class="col d-flex justify-content-center">
-  <img width="90%" class="rounded" src="./assets/images/room-page.png">
-</div>
+![list-room](/assets/images/m2/list-room.png)
 
 ## User Guide
 In progress
@@ -96,6 +69,8 @@ In progress
 ## Development History
 - **[M1](https://github.com/orgs/ics414t3/projects/1/views/1)** (Milestone 1)
   - Completed Mockups
+- **[M2](https://github.com/orgs/ics414t3/projects/2)** (Milestone 2)
+  - Implemented pages based on the mockups
 
 ## Deployment
 In progress
