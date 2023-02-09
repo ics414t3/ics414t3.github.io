@@ -31,7 +31,7 @@ What the user sees when they first go to the site.
 
 ### Sign-In
 Where the user can sign-in.
-![sign-in.png](/assets/images/sign-in.png)
+![sign-in.png](/assets/images/m1/login-page.png)
 
 ### Profile Page
 This is where users are able to view their profile / account information.
