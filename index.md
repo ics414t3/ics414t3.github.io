@@ -83,6 +83,16 @@ meteor npm run start
 If everything is good, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Development History
+The development process for OSMICS follows Issue Driven Project Manaagement:
+
+* Development consists of a sequence of milestones.
+* Each milestone is specified as a set of tasks.
+* Each task is described using a Github Issue, and is assigned to a single developer.
+* The work for each task is accomploished with a gut branch named "issue-XX", where XX is replaced by the issue number.
+* When a task is complete, its corresponding issue is closed and its git branch is merged into main.
+* The state of each task for a milestone is managed using a Github Project Board.
+
+
 - **[M1](https://github.com/orgs/ics414t3/projects/1/views/1)** (Milestone 1)
   - Completed Mockups
 - **[M2](https://github.com/orgs/ics414t3/projects/2)** (Milestone 2)
