@@ -63,7 +63,7 @@ In progress
 ## Developer Guide
 First, install [Meteor](https://www.meteor.com/install).
 
-Next, go to the [OSMICS hithub page](https://github.com/ics414t3/ics-osm). and make a copy of the repo to your local computer.
+Next, go to the [OSMICS github page](https://github.com/ics414t3/ics-osm). and make a copy of the repo to your local computer.
 
 Then, cd into the app directory and use:
 
@@ -95,6 +95,10 @@ The development process for OSMICS follows Issue Driven Project Manaagement:
 - **[M2](https://github.com/orgs/ics414t3/projects/2)** (Milestone 2)
   - Implemented pages based on the mockups
 - **[M3](https://github.com/orgs/ics414t3/projects/3)** (Milestone 3)
+  - Revamp user interface
+  - Add an interactive map prototype
+  - Add more functionality such as adding rooms, adding faculty, and a discuss page
+- **[M4](https://github.com/orgs/ics414t3/projects/4)** (Milestone 4 --- In Progress)
  
 
 ## Deployment
