@@ -27,38 +27,35 @@ This application will mainly provide the ICS Department's administrative office 
 
 ### Landing Page
 What the user sees when they first go to the site.
-![landing](/assets/images/m2/landing.png)
+![landing](/assets/images/m3/landing.png)
 
 ### Sign-In
 Where the user can sign-in.
-![sign-in.png](/assets/images/m1/login-page.png)
+![sign-in.png](/assets/images/m3/sign-in.png)
 
-### Profile Page
-This is where users are able to view their profile / account information.
-![profile](/assets/images/m1/profile-page.JPG)
+### Home Page
+A home page that includes a zoomable map of POST.
+![home.png](assets%2Fimages%2Fm3%2Fhome.png)
 
 ### Admin Page
 Admin can see all of the users and modify their information.
-![admin](/assets/images/m2/admin.png)
+![admin](/assets/images/m3/admin.png)
 
-### Admin List Room
-Admin can see all of the rooms and modify their information.
-![admin](/assets/images/m2/room-admin.png)
-
-### Reserve
-Where admin, faculty, tech, or office can reserve rooms.
-![calendar](/assets/images/m2/calendar.png)
+### Room Admin
+Admin can see all of the rooms and modify their information, can add rooms, and view room details.
+![admin](/assets/images/m3/room-admin.png)
+![add-room.png](assets%2Fimages%2Fm3%2Fadd-room.png)
+![room-details.png](assets%2Fimages%2Fm3%2Froom-details.png)
 
 ### Faculty Page
 Where the list of faculty can be seen by all users. However, only admin and office can add new faculty.
-![faculty](/assets/images/m2/faculty.png)
+![faculty](/assets/images/m3/faculty.png)
+![add-faculty.png](assets%2Fimages%2Fm3%2Fadd-faculty.png)
+![faculty-profile.png](assets%2Fimages%2Fm3%2Ffaculty-profile.png)
 
-### Add Faculty
-Modal that allows admin or office to add faculty.
-![add-faculty](/assets/images/m2/add-faculty.png)
-
-### Room Page
-![list-room](/assets/images/m2/list-room.png)
+### Discussion Page
+Where users can make posts or announcements Reddit style.
+![discuss.png](assets%2Fimages%2Fm3%2Fdiscuss.png)
 
 ## User Guide
 In progress
