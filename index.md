@@ -64,13 +64,31 @@ Modal that allows admin or office to add faculty.
 In progress
 
 ## Developer Guide
-In progress
+First, install [Meteor](https://www.meteor.com/install).
+
+Next, go to the [OSMICS hithub page](https://github.com/ics414t3/ics-osm). and make a copy of the repo to your local computer.
+
+Then, cd into the app directory and use:
+
+```
+meteor npm install
+```
+
+And finally, run the system with:
+
+```
+meteor npm run start
+```
+
+If everything is good, the application will appear at [http://localhost:3000](http://localhost:3000).
 
 ## Development History
 - **[M1](https://github.com/orgs/ics414t3/projects/1/views/1)** (Milestone 1)
   - Completed Mockups
 - **[M2](https://github.com/orgs/ics414t3/projects/2)** (Milestone 2)
   - Implemented pages based on the mockups
+- **[M3](https://github.com/orgs/ics414t3/projects/3)** (Milestone 3)
+ 
 
 ## Deployment
 In progress
