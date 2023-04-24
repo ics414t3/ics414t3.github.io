@@ -33,13 +33,20 @@ What the user sees when they first go to the site.
 Where the user can sign-in.
 ![sign-in.png](/assets/images/m3/sign-in.png)
 
-### Home Page
+### Home Page Default User(Non-Admin and Non-Office)
 A home page that includes a zoomable map of POST. Faculty is also visible as well as room reservations. The blue hovering button is for accessibility.
 ![home.png](assets%2Fimages%2Fm4%2Fhome.png)
 
-### Admin Page
+### Admin Home Page
 Admin can see all of the users and modify their information.
 ![admin](/assets/images/m3/admin.png)
+Admin can add faculty accounts which makes their profiles. They can also edit and modify the faculty profiles and such allowing flexibility between faculty and admin.
+They can also delete accounts by using the delete button for easier access. 
+![admin](/assets/images/final/FacultyHomeComponentAdminView.png)
+Admin can add student accounts without profiles into the system. They can change the first name and last name of the student user. They can delete users using the delete button. 
+![admin](/assets/images/final/StudentComponentViewAdminView.png)
+Admin can add faculty accounts without profiles into the system. They can change the first name and last name of the faculty user. They can delete users using the delete button.
+![admin](/assets/images/final/StaffsComponentAdminView.png)
 
 ### Room Admin
 Admin can see all of the rooms and modify their information, can add rooms, and view room details.
