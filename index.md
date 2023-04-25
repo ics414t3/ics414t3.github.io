@@ -42,10 +42,15 @@ A home page that includes a zoomable map of POST. Faculty is also visible as wel
 Admin can see all of the users and modify their information.
 
 Admin can add faculty accounts which makes their profiles. They can also edit and modify the faculty profiles. They can also delete accounts by using the delete button for easier access. 
+
 ![admin](/assets/images/final/FacultyHomeComponentAdminView.png)
+
 Admin can add student accounts without profiles into the system. They can change the first name and last name of the student user. Delete is also implemented to serve the same function.
+
 ![admin](/assets/images/final/StudentComponentViewAdminView.png)
+
 Admin can add faculty accounts without profiles into the system. They can change the first name and last name of the faculty user. Delete has the same function as the ones above.
+
 ![admin](/assets/images/final/StaffsComponentAdminView.png)
 
 ### Room Admin
@@ -57,16 +62,17 @@ Admin can see all of the rooms and modify their information, can add rooms, and 
 ### Faculty Page
 Where the list of faculty can be seen by all users. They also have a search bar to find professors profiles.  
 ![faculty](/assets/images/final/FacultyPageAdmin.png)
+
 However, only admin and office can add new faculty, as well as download the csv file.
 ![add-faculty.png](/assets/images/final/addingfaculty.png)
- It is noted that edit profile button will only function for the respective faculty user. While admin and office can edit faculty profiles indefinitely. 
 
-Overview of the profile page.
+ It is noted that edit profile button will only function for the respective faculty user. While admin and office can edit faculty profiles indefinitely.
 ![faculty-profile.png](/assets/images/final/facultyprofile.png)
 
 ### Clubs
 Each club has their own page with various information such as meeting times, Discord invites, and more.
 ![clubs.png](assets%2Fimages%2Fm4%2Fclubs.png)
+
 People with the role of Admin or Office also have the ability of adding clubs. 
 ![add-club.png](assets%2Fimages%2Fm4%2Fadd-club.png)
 
