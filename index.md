@@ -33,19 +33,19 @@ What the user sees when they first go to the site.
 Where the user can sign-in.
 ![sign-in.png](/assets/images/m3/sign-in.png)
 
-### Home Page Default User(Non-Admin and Non-Office)
+### Home Page Default User
 A home page that includes a zoomable map of POST. Faculty is also visible as well as room reservations. The blue hovering button is for accessibility.
-![home.png](assets%2Fimages%2Fm4%2Fhome.png)
+![home.png](/assets/images/final/HomepageRedo.png)
+
 
 ### Admin Home Page
 Admin can see all of the users and modify their information.
-![admin](/assets/images/m3/admin.png)
-Admin can add faculty accounts which makes their profiles. They can also edit and modify the faculty profiles and such allowing flexibility between faculty and admin.
-They can also delete accounts by using the delete button for easier access. 
+
+Admin can add faculty accounts which makes their profiles. They can also edit and modify the faculty profiles. They can also delete accounts by using the delete button for easier access. 
 ![admin](/assets/images/final/FacultyHomeComponentAdminView.png)
-Admin can add student accounts without profiles into the system. They can change the first name and last name of the student user. They can delete users using the delete button. 
+Admin can add student accounts without profiles into the system. They can change the first name and last name of the student user. Delete is also implemented to serve the same function.
 ![admin](/assets/images/final/StudentComponentViewAdminView.png)
-Admin can add faculty accounts without profiles into the system. They can change the first name and last name of the faculty user. They can delete users using the delete button.
+Admin can add faculty accounts without profiles into the system. They can change the first name and last name of the faculty user. Delete has the same function as the ones above.
 ![admin](/assets/images/final/StaffsComponentAdminView.png)
 
 ### Room Admin
@@ -55,14 +55,14 @@ Admin can see all of the rooms and modify their information, can add rooms, and 
 ![room-details.png](assets%2Fimages%2Fm3%2Froom-details.png)
 
 ### Faculty Page
-Where the list of faculty can be seen by all users. However, only admin and office can add new faculty.
-![faculty](/assets/images/m3/faculty.png)
-![add-faculty.png](assets%2Fimages%2Fm3%2Fadd-faculty.png)
-![faculty-profile.png](assets%2Fimages%2Fm3%2Ffaculty-profile.png)
+Where the list of faculty can be seen by all users. They also have a search bar to find professors profiles.  
+![faculty](/assets/images/final/FacultyPageAdmin.png)
+However, only admin and office can add new faculty, as well as download the csv file.
+![add-faculty.png](/assets/images/final/addingfaculty.png)
+ It is noted that edit profile button will only function for the respective faculty user. While admin and office can edit faculty profiles indefinitely. 
 
-### Discussion Page
-Where users can make posts or announcements Reddit style.
-![discuss.png](assets%2Fimages%2Fm3%2Fdiscuss.png)
+Overview of the profile page.
+![faculty-profile.png](/assets/images/final/facultyprofile.png)
 
 ### Clubs
 Each club has their own page with various information such as meeting times, Discord invites, and more.
@@ -116,11 +116,17 @@ The development process for OSMICS follows Issue Driven Project Management:
   - Add club collections
   - Add club pages and clubs in the navigation bar
   - Reimplemented logic for Roles
-- **[M5](https://github.com/orgs/ics414t3/projects/8)** (Milestone 5 --- in progress.)
- 
+- **[M5](https://github.com/orgs/ics414t3/projects/8)**
+  - Improved on overall quality and design of app
+  - Finished certain backend issues
+  - Interactive map has better usage and readability
+- **[M6](https://github.com/orgs/ics414t3/projects/9/views/1)** (Milestone 6 --- in progress.) 
+  - Implemented delete function for certain actions such as deleting users accounts
+  - Interactive map can update user profile bubble if add or delete user was used
+  - Added csv function to download certain data
 
 ## Deployment
-In progress
+You can find our website **[here](http://46.101.192.11/)**.
 
 ## Quality Assurance
 To ensure quality assurance, we are using several tools including eslint and testcafe.
