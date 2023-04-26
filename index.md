@@ -24,7 +24,13 @@ Our goal is to develop a user friendly application that can assist the entire IC
 This application will mainly provide the ICS Department's administrative office and tech support with an inventory and office space management system. Additionally, students and faculty also have access to the site, but with a different scope. Faculty can book conference rooms, and can update their office hours. Students on the other hand can look up faculty members, or locate where a certain room may be. 
 
 ## Mockup Pages
-
+![mock1](/assets/images/final/mock1.png)
+![mock2](/assets/images/final/mock2.png)
+![mock3](/assets/images/final/mock3.png)
+![mock4](/assets/images/final/mock4.png)
+![mock5](/assets/images/final/mock5.png)
+![mock6](/assets/images/final/mock6.png)
+![mock7](/assets/images/final/mock7.png)
 ## User Guide
 This section provides a walkthrough for the app
 
@@ -134,11 +140,11 @@ The development process for OSMICS follows Issue Driven Project Management:
   - Add club collections
   - Add club pages and clubs in the navigation bar
   - Reimplemented logic for Roles
-- **[M5](https://github.com/orgs/ics414t3/projects/8)**
+- **[M5](https://github.com/orgs/ics414t3/projects/8)**(Milestone 5)
   - Improved on overall quality and design of app
   - Finished certain backend issues
   - Interactive map has better usage and readability
-- **[M6](https://github.com/orgs/ics414t3/projects/9/views/1)**
+- **[M6](https://github.com/orgs/ics414t3/projects/9/views/1)**(Milestone 6)
   - Implemented delete function for certain actions such as deleting users accounts
   - Interactive map can update user profile bubble if add or delete user was used
   - Added csv function to download certain data
