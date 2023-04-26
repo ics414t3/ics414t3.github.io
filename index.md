@@ -25,6 +25,9 @@ This application will mainly provide the ICS Department's administrative office 
 
 ## Mockup Pages
 
+## User Guide
+This section provides a walkthrough for the app
+
 ### Landing Page
 What the user sees when they first go to the site.
 ![landing](/assets/images/m3/landing.png)
@@ -88,9 +91,6 @@ Each club has their own page with various information such as meeting times, Dis
 People with the role of Admin or Office also have the ability of adding clubs. 
 ![add-club.png](assets%2Fimages%2Fm4%2Fadd-club.png)
 
-## User Guide
-In progress
-
 ## Developer Guide
 First, install [Meteor](https://www.meteor.com/install).
 
@@ -138,13 +138,13 @@ The development process for OSMICS follows Issue Driven Project Management:
   - Improved on overall quality and design of app
   - Finished certain backend issues
   - Interactive map has better usage and readability
-- **[M6](https://github.com/orgs/ics414t3/projects/9/views/1)** (Milestone 6 --- in progress.) 
+- **[M6](https://github.com/orgs/ics414t3/projects/9/views/1)**
   - Implemented delete function for certain actions such as deleting users accounts
   - Interactive map can update user profile bubble if add or delete user was used
   - Added csv function to download certain data
 
 ## Deployment
-You can find our website **[here](http://46.101.192.11/)**.
+You can find our website **[here](https://osmics.online/)**.
 
 ## Quality Assurance
 To ensure quality assurance, we are using several tools including eslint and testcafe.
