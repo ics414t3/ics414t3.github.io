@@ -55,9 +55,21 @@ Admin can add faculty accounts without profiles into the system. They can change
 
 ### Room Admin
 Admin can see all of the rooms and modify their information, can add rooms, and view room details.
-![admin](/assets/images/m3/room-admin.png)
-![add-room.png](assets%2Fimages%2Fm3%2Fadd-room.png)
-![room-details.png](assets%2Fimages%2Fm3%2Froom-details.png)
+![admin](/assets/images/final/roomadminrooms.png)
+
+A tab for equipment which consists of furniture and tech such as TV's, telephones and more.
+![add-room.png](/assets/images/final/roomadminequipment.png)
+
+A section for room jacks and also has edit and delete functions.
+![room-details.png](/assets/images/final/roomadminjacks.png)
+
+### Room Reservation
+Room reservation allow certain users and roles to request for a room to use.
+![admin](/assets/images/final/reservepage.png)
+
+This is the room reservation inside of the home page which links to the reserve page.
+![admin](/assets/images/final/reservationcomponent.png)
+
 
 ### Faculty Page
 Where the list of faculty can be seen by all users. They also have a search bar to find professors profiles.  
